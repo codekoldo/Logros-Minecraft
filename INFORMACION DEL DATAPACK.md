@@ -6,3 +6,4 @@ Quieres probar algo parecido a dedsafio Speed Run logros? Puedes probar este dat
 Datapack:
 [Codekoldo Logros.zip](https://github.com/user-attachments/files/19624429/Codekoldo.Logros.zip)
 Minecraft 1.21.4
+![maxresdefault](https://github.com/user-attachments/assets/eb69e3d7-714b-456f-8e29-5e3aa2572254)
